@@ -11,6 +11,11 @@ public class Mobile {
 	public void faceebook() {
 		System.out.println("Facebook");
 	}
+	@Test
+	public void changesHappen() {
+		System.out.println("Changes..");
+		System.out.println("Happen");
+	}
 		
 
 }
