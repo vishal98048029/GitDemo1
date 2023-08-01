@@ -15,4 +15,8 @@ public class Automation {
 	public void Protactor() {
 		System.out.println("Protactor");
 	}
+	@Test
+	public void ProtactorChanges() {
+		System.out.println("Protactor Changes");
+	}
 }
